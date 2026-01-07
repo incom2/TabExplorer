@@ -36,7 +36,7 @@ Download the latest version from here: 💾[not yet]
 ✔ And finally... copy, move, delete at your will.
 
 ![](docs/pics/001_white.png)
-## Requirements
+### Requirements
 ✔ Microsoft Windows 10 or later.<br>
 ✔ Microsoft .NET Framework 4.8 (included with Windows).<br>
 ✔ No other third party libraries or dependencies required!<br>

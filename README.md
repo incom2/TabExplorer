@@ -1,5 +1,8 @@
 # TabExplorer
-A lightweight, portable file explorer replacement that wraps the native explorer core for total compatibilty.
+A lightweight, portable file explorer replacement that wraps the native explorer core for total compatibilty. See the full manual and features list here: 
+📖 [Spanish](docs/TabExplorer.ES%20-%20Castellano.pdf)<br>
+📖 [English](docs/TabExplorer.EN%20-%20English.pdf)<br>
+📖 [Catalán](docs/TabExplorer.CAT%20-%20Català.pdf)
 
 ![Light theme picture](docs/pics/001_black.png)
 ### **Why it’s different?**
@@ -42,9 +45,3 @@ A lightweight, portable file explorer replacement that wraps the native explorer
 ✔ Windows 10 or later,<br>
 ✔ Microsoft .NET Framework 4.8 (included with Windows),<br>
 ✔ No other third party libraries, dependences, etc.
-
-## Want more details?
-✔ See the full manual here: 
-  - [Spanish](docs/TabExplorer.ES%20-%20Castellano.pdf)
-  - [English](docs/TabExplorer.EN%20-%20English.pdf)
-  - [Catalán](docs/TabExplorer.CAT%20-%20Català.pdf)

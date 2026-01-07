@@ -5,20 +5,21 @@ See the full manual and features list here: 📘[English](docs/TabExplorer.EN%20
 ![](docs/pics/001_black.png)
 ### **Benefits**
 ✔ Uses the real Windows Explorer so everything will work as Microsoft intended.<br>
-✔ Portable (~2 Mb) and lightweight (~60 Mb RAM), just run it in a folder of your choice.<br>
-✔ Reliable: Your workspace is saved and restored after a sudden closing or system reboot.<br>
+✔ Lightweight: ~2 Mb of space and uses ~60 Mb of RAM (less than the native explorer),
+✔ Portable: Run it in a folder of your choice, move it to another… no setup is required.<br>
+✔ Reliable: Your workspace is always saved and restored. Forget sudden crashes or reboots!<br>
 ✔ Up-to-date: The explorer core will be updated automatically along with Windows itself.<br>
-✔ Modern: Dark theme, customisable tabs, themes and logos, dual-pane browsing, profiles… and more!<br>
-✔ Infinite workflow: Open as many windows as you want, name them and pin them or bring them back later.
+✔ Modern: Dark mode, customisable tabs, themes and logos, dual-pane browsing, profiles… and more!<br>
+✔ Infinite workflow: Open as many windows as you want, name them, pin them or bring them back later.
 
 ### **Your data and you style**
-✔ The configuration is stored inside the TabExplorer folder in text files, easy to backup and edit.<br>
+✔ All your settings are stored in a subfolder inside the TabExplorer folder, in convenient text files.<br>
 ✔ You can switch at any time between per-user settings or shared settings for all Windows accounts.<br>
-✔ Adding new languages is a matter of just cloning and editing a simple text file.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PS: Please note the native part of the file explorer will always use Winodws current language.
+✔ Adding new languages is a matter of just cloning and editing a simple resource text file.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PS: Please note the native part of the file explorer will always use Windows language.
 
 ### **“Take control!**
-✔ Intercept any new Windows Explorer window and convert it in a new tab without changing any system settings!<br>
+✔ Intercept any new Windows Explorer window and convert them in new tabs without changing obscure system settings!<br>
 ✔ You can enable and disable this featuure at any moment, instantly, with just one click.
 
 ### **Express yourself**

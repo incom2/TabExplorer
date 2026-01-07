@@ -39,4 +39,4 @@ Download the latest version from here: 💾[not yet]
 ### Requirements
 ✔ Microsoft Windows 10 or later.<br>
 ✔ Microsoft .NET Framework 4.8 (included with Windows).<br>
-✔ No other third party libraries or dependencies required!<br>
+✔ No third party libraries or other dependencies are required!

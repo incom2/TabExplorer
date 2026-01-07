@@ -15,7 +15,7 @@ See the full manual and features list here: 📘[English](docs/TabExplorer.EN%20
 ✔ The configuration is stored inside the TabExplorer folder in text files, easy to backup and edit.<br>
 ✔ You can switch at any time between per-user settings or shared settings for all Windows accounts.<br>
 ✔ Adding new languages is a matter of just cloning and editing a simple text file.<br>
-  PS: Please note the native part of the file explorer will always use Winodws current language.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PS: Please note the native part of the file explorer will always use Winodws current language.
 
 ### **“Take control!**
 ✔ Intercept any new Windows Explorer window and convert it in a new tab without changing any system settings!<br>

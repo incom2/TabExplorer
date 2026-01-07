@@ -1,6 +1,7 @@
 # TabExplorer
 A lightweight, portable file explorer replacement for Windows that wraps the native one for total compatibility.<br>
-See the full manual and features list here: 📘[English](docs/TabExplorer.EN%20-%20English.pdf), 📘[Spanish](docs/TabExplorer.ES%20-%20Castellano.pdf), 📘[Catalan](docs/TabExplorer.CAT%20-%20Català.pdf).
+See the full manual and features list here: 📘[English](docs/TabExplorer.EN%20-%20English.pdf), 📘[Spanish](docs/TabExplorer.ES%20-%20Castellano.pdf), 📘[Catalan](docs/TabExplorer.CAT%20-%20Català.pdf).<br>
+Download the latest version from here: 💾[not yet]
 
 ![](docs/pics/001_black.png)
 ### **Benefits**
@@ -18,7 +19,7 @@ See the full manual and features list here: 📘[English](docs/TabExplorer.EN%20
 ✔ Adding new languages is a matter of just cloning and editing a simple resource text file.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PS: Please note the native part of the file explorer will always use Windows language.
 
-### **“Take control!**
+### **Take control!**
 ✔ Intercept any new Windows Explorer window and convert them in new tabs without changing obscure system settings!<br>
 ✔ You can enable and disable this featuure at any moment, instantly, with just one click.
 

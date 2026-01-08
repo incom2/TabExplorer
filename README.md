@@ -36,7 +36,22 @@ Download the latest version from here: 💾[not yet]
 ✔ And finally... copy, move, delete at your will.
 
 ![](docs/pics/001_white.png)
-### Requirements
+### **Requirements**
 ✔ Microsoft Windows 10 or later.<br>
 ✔ Microsoft .NET Framework 4.8 (included with Windows).<br>
 ✔ No third party libraries or other dependencies are required!
+
+### **Credits**
+💙 TabExplorer uses components from the Windows® API Code Pack for Microsoft® .NET Framework,<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;originally published by Microsoft as a managed wrapper around various Windows shell features.<br>
+💙 This project was inspired by the archived copy of these libraries, kindly preserved by<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[timdetering](https://github.com/timdetering) at [github.com/timdetering/Microsoft.Windows_API_Code_Pack](https://github.com/timdetering/Microsoft.Windows_API_Code_Pack).
+
+### **API Code Pack custom changes**
+✒ Several modifications were made to the original two libraries to fix issues when navigating<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;to certain special folders available only on Windows 11.<br>
+✒ Additional methods were added to allow redrawing the embedded file explorer,<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;setting focus, and selecting or unselecting files programmatically.<br>
+✒ Finally, the libraries were updated and recompiled to target the latest<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.NET Framework version (4.8.1), replacing the older framework originally used.
+

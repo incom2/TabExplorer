@@ -6,7 +6,7 @@ Download the latest version from here: 💾[not yet]
 ![](docs/pics/001_black.png)
 ### **Benefits**
 ✔ Uses the real Windows Explorer so everything will work as Microsoft intended.<br>
-✔ Lightweight: ~2 Mb of space and uses ~60 Mb of RAM (less than the native explorer),
+✔ Lightweight: ~2 Mb of space and uses ~60 Mb of RAM (less than the native explorer).<br>
 ✔ Portable: Run it in a folder of your choice, move it to another… no setup is required.<br>
 ✔ Reliable: Your workspace is always saved and restored. Forget sudden crashes or reboots!<br>
 ✔ Up-to-date: The explorer core will be updated automatically along with Windows itself.<br>
@@ -20,8 +20,8 @@ Download the latest version from here: 💾[not yet]
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PS: Please note the native part of the file explorer will always use Windows language.
 
 ### **Take control!**
-✔ Intercept any new Windows Explorer window and convert them in new tabs without changing obscure system settings!<br>
-✔ You can enable and disable this featuure at any moment, instantly, with just one click.
+✔ Intercept any new Windows Explorer window and convert them in new tabs without changing<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;obscure system settings! Enable or disable this feature instantly at any moment with just one click.
 
 ### **Express yourself**
 ✔ Set a background image or place your logo in a corner.<br>

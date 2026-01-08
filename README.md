@@ -2,7 +2,7 @@
 A fast, lightweight and portable file explorer replacement for Windows that wraps the native one for total compatibility.<br>
 👉 See the full manual and features list here: 📘[English](docs/TabExplorer.EN%20-%20English.pdf), 📘[Spanish](docs/TabExplorer.ES%20-%20Castellano.pdf), 📘[Catalan](docs/TabExplorer.CAT%20-%20Català.pdf).<br>
 👉 Download the latest version from here: 💾[not yet]<br>
-👉 Check the list of changes here: ✏[Changelog](docs/changelog.md)
+👉 See the list of changes here: 📘[Changelog](docs/changelog.md)
 
 ![](docs/pics/001_black.png)
 ### **Benefits**

@@ -1,1 +1,7 @@
+1.0.0.1 - Bugfix: Navigation to certain folders by using for example %programfiles% was broken.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Change: The keyboard shortcut for the Personalization window is now Alt+P instead of Alt+C.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Addition: New option menu to start selecting files. It can be accessed too by pressing F3.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Addition: The Personalization window now displays the name of the selected picture (if any).  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Addition: New "Remove all" button in the Themes window (like the one in the Personalization window).  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bugfix: To enable native transparency in a background PNG, a default transparency color will be used.  
 1.0.0.0 - Initial version.

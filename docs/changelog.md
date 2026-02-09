@@ -1,3 +1,8 @@
+1.0.0.4 - NEW: After an update, you will be prompted to set again the language to apply any new change.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;NEW: A visual indicator has been added that appears when dragging a tab to move it.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;FIX: The internal timer that calculates free space, focus and other aspects could end stuck.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;FIX: In dual browser tabs, the focus will return to the one selected last time (or the primary).  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;FIX: Transparent color picker crashed the program if a (semi)transparent color was picked.  
 1.0.0.3 - FIX: On high DPI displays (zoom bigger than 125%), buttons and other elements were wrongly placed.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;FIX: Pressing ALT+2 to focus the secondary browser caused TabExplorer to crash in some cases.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;FIX: Resizing the secondary browser could move its bottom part outside the visible area.  

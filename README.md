@@ -4,7 +4,7 @@ A fast, lightweight and portable (simply extract the 7z archive and run the exec
 👉 Download the latest version from here: 💾[releases](https://github.com/incom2/TabExplorer/releases)<br>
 👉 See the list of latest changes here: 📘[Changelog](docs/changelog.md)<br>
 👉 Included languages (you can create yours!):<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🗣 English, 🗣 Spanish, 🗣 Catalan.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;友 English, 友 Spanish, 友 Catalan.
 
 ![](docs/pics/001_white.png)
 ### **Benefits**

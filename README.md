@@ -5,7 +5,11 @@ A fast, lightweight and portable (simply extract the 7z archive and run the exec
 👉 See the list of latest changes here: 📘[Changelog](docs/changelog.md)<br>
 👉 Included languages (you can create yours!): 友 English, 友 Spanish, 友 Catalan.
 
+### About Microsoft Defender false positives
+😷 In some cases, Microsoft Defender may flag TabExplorer as a threat. It is not, but as a file explorer it necessarily interacts with the file system and Windows Explorer components. To prevent false positives, a sample was submitted to Microsoft for review on April 28, 2026 (submission ID `1e9a531d-5aa4-472d-b803-26e3940de350`).
+
 ![](docs/pics/001_black.png)
+
 ### **Benefits**
 ✔ Uses the real Windows Explorer so everything will work as Microsoft intended.<br>
 ✔ Lightweight: ~2 Mb of space and uses ~60 Mb of RAM (less than the native explorer).<br>

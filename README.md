@@ -4,7 +4,7 @@ A fast, lightweight and portable (simply extract the 7z archive and run the exec
 👉 Download the latest version from here: 💾[releases](https://github.com/incom2/TabExplorer/releases)<br>
 👉 See the list of latest changes here: 📘[Changelog](docs/changelog.md)<br>
 👉 Included languages (you can create yours!): 友 English, 友 Spanish, 友 Catalan, 友 Traditional Chinese.<br>
-👉 Even more languages (translation using AI): 友 Deutsch, 友 Français, 友 Italiano, 友 Japanese, 友 Portugués, 友 Ukranian.
+👉 Translated languages (using AI): 友 Deutsch, 友 Français, 友 Italiano, 友 Japanese, 友 Portugués, 友 Ukranian.
 
 ### About Microsoft Defender false positives
 😷 In some cases, Microsoft Defender may flag TabExplorer as a threat. It is not, but as a file explorer it necessarily interacts with the file system and Windows Explorer components. To prevent false positives, a sample was submitted to Microsoft for review on April 28, 2026 (submission ID `1e9a531d-5aa4-472d-b803-26e3940de350`).

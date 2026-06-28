@@ -3,7 +3,7 @@ A fast, lightweight and portable (simply extract the 7z archive and run the exec
 👉 See the full manual and features list here: 📘[English](docs/TabExplorer.EN%20-%20English.pdf), 📘[Spanish](docs/TabExplorer.ES%20-%20Castellano.pdf), 📘[Catalan](docs/TabExplorer.CAT%20-%20Català.pdf).<br>
 👉 Download the latest version from here: 💾[releases](https://github.com/incom2/TabExplorer/releases)<br>
 👉 See the list of latest changes here: 📘[Changelog](docs/changelog.md)<br>
-👉 Included languages (you can create yours!): 友 English, 友 Spanish, 友 Catalan, 友 Traditional Chinese.
+👉 Included languages (you can create yours!): 友 English, 友 Spanish, 友 Catalan, 友 Traditional Chinese.<br>
 👉 Even more languages (translation using AI): 友 Deutsch, 友 Français, 友 Italiano, 友 Japanese, 友 Portugués, 友 Ukranian.
 
 ### About Microsoft Defender false positives

@@ -1,6 +1,6 @@
 # TabExplorer
 A fast, lightweight and portable (simply extract the 7z archive and run the executable) file explorer replacement built on top of the native Windows Explorer to keep full compatibility while adding convenient features such as tabs, path breadcrumbs, selectable native dark mode, notes, themes, background pictures and colors, favorites and dual-pane browsing... All settings are stored in a folder of your choice, keeping your workspace up to date so that even after sudden crashes or reboots you can continue exactly where you left off or backup it.<br><br>
-👉 See the full manual and features list here: 📘[English](docs/TabExplorer.EN%20-%20English.pdf), 📘[Spanish](docs/TabExplorer.ES%20-%20Castellano.pdf), 📘[Catalan](docs/TabExplorer.CAT%20-%20Català.pdf).<br>
+👉 See the full manual and features list here: 📘[English](docs/TabExplorer.EN%20-%20English.pdf), 📘[Spanish](docs/TabExplorer.ES%20-%20Castellano.pdf), 📘[Catalan](docs/TabExplorer.CA%20-%20Català.pdf).<br>
 👉 Download the latest version from here: 💾[releases](https://github.com/incom2/TabExplorer/releases)<br>
 👉 See the list of latest changes here: 📘[Changelog](docs/changelog.md)<br>
 👉 Included languages (you can create yours!): 友 English, 友 Spanish, 友 Catalan, 友 Traditional Chinese.<br>
